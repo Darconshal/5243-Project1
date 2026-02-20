@@ -28,17 +28,22 @@ Required packages:
 - matplotlib
 - seaborn
 
+### Dataset
+
+Due to the large size of the dataset, it is not included in this repository. The dataset can be downloaded from Kaggle:
+https://www.kaggle.com/datasets/tarinisudhakar/spotify-songs-1950-2015-with-billboard-100-hits
+
+The dataset is loaded in the code using the filename `1950big_data.csv`, which matches the original filename from the Kaggle download.
+
 ### Running the Notebook
 
-Step 1: Open Jupyter Notebook
+Step 1: Open Jupyter Notebook or JupyterLab
 
-Step 2: Open the notebook file
+Step 2: Open the file `Project1_Clean+EDA.ipynb`
 
-Project1_Clean+EDA.ipynb
+Step 3: Ensure the dataset file `1950big_data.csv` is in the same folder
 
-Step 3: Run all cells
-
-Run → Run All Cells
+Step 4: Click: Run → Run All Cells to execute the full workflow.
 
 ---
 ## Research Question
