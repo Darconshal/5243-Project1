@@ -1,25 +1,8 @@
 # 5243-Project1：Spotify Songs Analysis
 
-## Overview
-This project focuses on acquiring, cleaning, preprocessing, and analyzing a large-scale Spotify songs dataset with Billboard Hot 100 hit information. The objective is to explore how musical audio features differ between hit and non-hit songs and to prepare the dataset for future predictive modeling.
-
-The full workflow includes:
-
-- Data acquisition from kaggle
-- Data cleaning and inconsistency handling
-- Exploratory Data Analysis (EDA)
-- Data preprocessing and feature engineering
-
-All steps are implemented in the Jupyter notebook:
-
-Project1_Clean+EDA.ipynb
-
----
 ## How to Run the Code
 
 ### Requirements
-
-Python 3.9 or higher
 
 Required packages:
 
@@ -44,6 +27,34 @@ Step 2: Open the file `Project1_Clean+EDA.ipynb`
 Step 3: Ensure the dataset file `1950big_data.csv` is in the same folder
 
 Step 4: Click: Run → Run All Cells to execute the full workflow.
+
+---
+## Raw Data
+Due to the large size of the dataset, it is not included in this repository. The dataset can be downloaded from Kaggle:
+
+https://www.kaggle.com/datasets/tarinisudhakar/spotify-songs-1950-2015-with-billboard-100-hits
+
+The dataset is loaded in the code using the filename `1950big_data.csv`, which matches the original filename from the Kaggle download.
+
+## Final clean, processed dataset
+Due to the large size of the dataset, it is not included in this repository. The dataset can be downloaded:
+
+https://drive.google.com/file/d/1uVL0h2bJMBDtSKBbf7EUfKeBca38W9f0/view?usp=sharing
+
+---
+## Overview
+This project focuses on acquiring, cleaning, preprocessing, and analyzing a large-scale Spotify songs dataset with Billboard Hot 100 hit information. The objective is to explore how musical audio features differ between hit and non-hit songs and to prepare the dataset for future predictive modeling.
+
+The full workflow includes:
+
+- Data acquisition from kaggle
+- Data cleaning and inconsistency handling
+- Exploratory Data Analysis (EDA)
+- Data preprocessing and feature engineering
+
+All steps are implemented in the Jupyter notebook:
+
+Project1_Clean+EDA.ipynb
 
 ---
 ## Research Question
