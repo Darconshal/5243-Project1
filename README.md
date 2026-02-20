@@ -22,7 +22,7 @@ The dataset is loaded in the code using the filename `1950big_data.csv`, which m
 
 Step 1: Open Jupyter Notebook or JupyterLab
 
-Step 2: Open the file `Project1_Clean+EDA.ipynb`
+Step 2: Open the file `Project1_Final.ipynb`
 
 Step 3: Ensure the dataset file `1950big_data.csv` is in the same folder
 
